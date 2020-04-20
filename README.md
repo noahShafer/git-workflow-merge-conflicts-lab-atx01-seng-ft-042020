@@ -26,7 +26,7 @@ issues with conflicting Git histories!
 
 Marty McFly and Doc Brown just finished their student profiles for Flatiron
 School. Now they need to merge their profiles into the `master` branch so that
-they'll have a completed profile page.
+they'll have a completed profile page. 
 
 __This is what we will be working towards:__
 
